@@ -4,20 +4,20 @@ A new Flutter application UI.
 
 Login screen:
 
-![](login1.png)
+![](/assets/screens/login1.png)
 
 
 Passcode screen:
 
-![](passcode2.png)
+![](/assets/screens/passcode2.png)
 
-![](demo_mode3.png)
+![](/assets/screens/demo_mode3.png)
 
 
 Home screen:
 
-![](home_page12.png)
+![](/assets/screens/home_page12.png)
 
 
 Chat screen:
-![](chat_screen4.png)
+![](/assets/screens/chat_screen4.png)
