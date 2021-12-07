@@ -20,4 +20,5 @@ Home screen:
 
 
 Chat screen:
+
 ![](/assets/screens/chat_screen4.png)
